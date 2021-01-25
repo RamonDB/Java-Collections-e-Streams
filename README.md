@@ -1,2 +1,2 @@
 # collections-course
-Examples of Java Collections framework to Digital Innovation One course.
+Exemplos do framework do Java Collections!
